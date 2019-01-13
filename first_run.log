@@ -1,0 +1,56 @@
+Script started on Sun Jan 13 16:06:23 2019
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                  ]2;joshhawthorn@joshdev: ~/Desktop/python/ecs]1;..op/python/ecs[0m[27m[24m[J[01;32m➜  [36mecs[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hscript first_run.log[20Dclear               [15Dscript first_run.log[20D                    [20Dscript first_run.log[20Dclear               [15Dpython ecs_challenge.py db_scripts ecs_user localhost ecs_database ecs_user[?1l>[?2004l
+]2;python ecs_challenge.py db_scripts ecs_user localhost ecs_database ecs_user]1;python===================
+BEGINNING DB UPDATE
+===================
+
+Version datase table created!
+
+CURRENT DATABASE VERSION: 0
+
+CREATE TABLE characters(id INT AUTO_INCREMENT PRIMARY KEY, first_name varchar(40), last_name varchar(50), email varchar(50))
+
+CREATE TABLE characters2(id INT AUTO_INCREMENT PRIMARY KEY, first_name varchar(40), last_name varchar(50), email varchar(50))
+
+CREATE TABLE characters3(id INT AUTO_INCREMENT PRIMARY KEY, first_name varchar(40), last_name varchar(50), email varchar(50))
+
+CREATE TABLE characters4(id INT AUTO_INCREMENT PRIMARY KEY, first_name varchar(40), last_name varchar(50), email varchar(50))
+INSERT INTO characters(first_name, last_name, email) VALUES("Mickey", "Mouse", "mickey.mouse@gmail.com")
+
+INSERT INTO characters(first_name, last_name, email) VALUES("Minnie", "Mouse", "minnie.mouse@gmail.com")
+
+INSERT INTO characters(first_name, last_name, email) VALUES("Donald", "Duck", "donald.duck@gmail.com")
+
+INSERT INTO characters(first_name, email) VALUES("Goofy", "goofy@gmail.com")
+INSERT INTO characters2(first_name, last_name, email) VALUES("Mickey", "Mouse", "mickey.mouse@gmail.com")
+
+INSERT INTO characters2(first_name, last_name, email) VALUES("Minnie", "Mouse", "minnie.mouse@gmail.com")
+
+INSERT INTO characters2(first_name, last_name, email) VALUES("Donald", "Duck", "donald.duck@gmail.com")
+
+INSERT INTO characters2(first_name, email) VALUES("Goofy", "goofy@gmail.com")
+
+INSERT INTO characters3(first_name, last_name, email) VALUES("Mickey", "Mouse", "mickey.mouse@gmail.com")
+
+INSERT INTO characters3(first_name, last_name, email) VALUES("Minnie", "Mouse", "minnie.mouse@gmail.com")
+
+INSERT INTO characters3(first_name, last_name, email) VALUES("Donald", "Duck", "donald.duck@gmail.com")
+
+INSERT INTO characters3(first_name, email) VALUES("Goofy", "goofy@gmail.com")
+
+INSERT INTO characters4(first_name, last_name, email) VALUES("Mickey", "Mouse", "mickey.mouse@gmail.com")
+
+INSERT INTO characters4(first_name, last_name, email) VALUES("Minnie", "Mouse", "minnie.mouse@gmail.com")
+
+INSERT INTO characters4(first_name, last_name, email) VALUES("Donald", "Duck", "donald.duck@gmail.com")
+
+INSERT INTO characters4(first_name, email) VALUES("Goofy", "goofy@gmail.com")
+DROP TABLE characters4
+DROP TABLE characters2
+
+=================================
+DONE -- NEW DATABASE VERSION: 126
+=================================
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                  ]2;joshhawthorn@joshdev: ~/Desktop/python/ecs]1;..op/python/ecs[0m[27m[24m[J[01;32m➜  [36mecs[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h[?2004l
+
+Script done on Sun Jan 13 16:06:48 2019

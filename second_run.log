@@ -1,0 +1,16 @@
+Script started on Sun Jan 13 16:06:54 2019
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                  ]2;joshhawthorn@joshdev: ~/Desktop/python/ecs]1;..op/python/ecs[0m[27m[24m[J[01;32m➜  [36mecs[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h[?1l>[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                  ]2;joshhawthorn@joshdev: ~/Desktop/python/ecs]1;..op/python/ecs[0m[27m[24m[J[01;32m➜  [36mecs[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hscript second_run.log[21Dpython ecs_challenge.py db_scripts ecs_user localhost ecs_database ecs_user[?1l>[?2004l
+]2;python ecs_challenge.py db_scripts ecs_user localhost ecs_database ecs_user]1;python===================
+BEGINNING DB UPDATE
+===================
+
+CURRENT DATABASE VERSION: 126
+
+
+=================================
+DONE -- NEW DATABASE VERSION: 126
+=================================
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                  ]2;joshhawthorn@joshdev: ~/Desktop/python/ecs]1;..op/python/ecs[0m[27m[24m[J[01;32m➜  [36mecs[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h[?2004l
+
+Script done on Sun Jan 13 16:07:00 2019
